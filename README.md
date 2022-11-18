@@ -101,7 +101,7 @@ $ ./ChaCha -e plain.txt -d plain.enc.txt
 <br>
 
 ## Disclaimer!
-This is part of my Cryptography and Network security course project, Do NOT use the algorithm in real-world projects without proper code review
+This is just a project for my Cryptography and Network security Course, Do **NOT** use the algorithm in real-world projects without proper code review.
 
 
 
