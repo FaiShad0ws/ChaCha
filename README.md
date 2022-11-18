@@ -1,2 +1,2 @@
 # ChaCha
-Linux command-line Tool for ChaCha encryption Algorithm.
+Chacha20 is a secure, fast, and simple encryption technique. It's an ARX-based, keyed and running in counter mode.
